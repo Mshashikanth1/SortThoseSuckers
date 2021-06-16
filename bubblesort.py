@@ -1,3 +1,5 @@
+#this code just to implement bubblesort
+#detail expalantion is given https://www.youtube.com/watch?v=NDDT2wmqwIg&t=47s
 def bubblesort(a,l,h):
     for i in range(l,h):
         for j in range(i,h):
